@@ -1,0 +1,127 @@
+.wordmarkWindows-1v0lYD.wordmark-2iDDfm.da-wordmarkWindows.da-wordmark{
+    background-color:#35b5ac;
+    color:#000000;
+    padding:2px 5px 1px 5px;
+}
+.typeWindows-1za-n7.withFrame-haYltI.titleBar-AC4pGV.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3.da-typeWindows.da-withFrame.da-titleBar.da-horizontalReverse.da-flex.da-directionRowReverse.da-justifyStart.da-alignStretch{
+margin: 0px 0px 0px 0px;
+background-color:#000;
+}
+.winButtonClose-1HsbF-.winButton-iRh8-Z.flexCenter-3_1bcw.flex-1O1GKY.justifyCenter-3D2jYp.alignCenter-1dQNNs.da-winButtonClose.da-winButton.da-flexCenter.da-flex.da-justifyCenter.da-alignCenter{
+background-color:#35b5ac;
+color:#000;
+}
+.winButtonMinMax-PBQ2gm.winButton-iRh8-Z.flexCenter-3_1bcw.flex-1O1GKY.justifyCenter-3D2jYp.alignCenter-1dQNNs.da-winButtonMinMax.da-winButton.da-flexCenter.da-flex.da-justifyCenter.da-alignCenter{
+background-color:#35b5ac;
+color:#000;
+}
+.appMount-3lHmkl.da-appMount.bda-dark{
+background-color:#35b5ac;
+}
+.childWrapper-anI2G9.da-childWrapper{
+background-color:#35b5ac;
+}
+.scroller-2TZvBN.da-scroller.none-2Eo-qx.scrollerBase-289Jih{
+background-color:#000;    
+}
+.homeIcon-tEMBK1.da-homeIcon{
+background-image:url();
+}
+.scroller-2LSbBU.da-scroller.auto-Ge5KZx.scrollerBase-289Jih.disableScrollAnchor-3V9UtP{
+background-color:#000;
+}
+.form-2fGMdU.da-form{
+    background-color:#000;
+    padding: 0px 0px;
+}
+.scrollableContainer-2NUZem.webkit-HjD9Er.da-webkit{
+    padding: 0px 10px 0px 10px;
+}
+.scroller-RmtA4e.da-scroller.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2{
+background-color:#000;
+opacity:0.75;
+}
+.header-2V-4Sw.da-header{
+background-color:#000;
+border-radius:8px;
+}
+.panel-24C3ux.da-panel.activityPanel-28dQGo.da-activityPanel{
+    background-color:#000;
+}
+.container-3baos1.da-container{
+    background-color:#000;
+    border: 2px solid #35b5ac;
+    border-radius:8px;
+}
+.title-3qD0b-.da-title.container-1r6BKw.da-container.themed-ANHk51.da-themed{
+    background-color:#000;
+     border-top: 2px solid #35b5ac;
+     border-right:2px solid #35b5ac;
+     border-bottom:2px solid #35b5ac;
+     border-radius:8px;
+}
+.header-2V-4Sw.da-header{
+ border: 2px solid #35b5ac;    
+}
+.content-3YMskv.da-content{
+    background-color:#000;
+}
+.scrollableContainer-2NUZem.webkit-HjD9Er.da-webkit{
+    background-color:#000;
+    border:2px solid #35b5ac;
+}
+.scroller-1JbKMe.da-scroller.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2{
+    background-color:#35b5ac;
+}
+.searchBar-6Kv8R2.da-searchBar{
+    background-color:#000;
+    border-left:2px solid #35b5ac;
+    border-bottom:2px solid #35b5ac;
+    border-top:2px solid #35b5ac;
+    border-right:2px solid #35b5ac;
+}
+.container-1r6BKw.da-container.themed-ANHk51.da-themed{
+    background-color:#000;
+    border:2px solid #35b5ac;
+}
+.nowPlayingColumn-2sl4cE.da-nowPlayingColumn{
+background-color:#000;    
+}
+.itemCard-v9viV7.da-itemCard.wrapper-3D2qGf.da-wrapper.outer-1AjyKL.da-outer.padded-302COx.da-padded.interactive-3B9GmY.da-interactive{
+    background-color:#000;
+    border:2px solid #35b5ac;
+}
+.container-1giJp5.da-container{
+    background-color:#000;
+    border-top:2px solid #35b5ac;
+    border-left:2px solid #35b5ac;
+    border-right:2px solid #35b5ac;
+}
+.peopleList-3c4jOR.da-peopleList.auto-Ge5KZx.scrollerBase-289Jih{
+    background-color:#000;
+}
+.autocompleteRowVertical-q1K4ky.autocompleteRow-2OthDa.da-autocompleteRowVertical.da-autocompleteRow{
+    background-color:#000;
+}
+.autocompleteInner-zh20B_.da-autocompleteInner{
+    background-color:#000;
+}
+.base-1pYU8j.da-base.selectable-3dP3y-.da-selectable.selected-1Tbx07.da-selected{
+    background-color:#000;
+}
+.listItem-2P_4kh.da-listItem{
+    margin : 5px 5px 0px 2px;
+}
+.sidebarRegionScroller-3MXcoP.da-sidebarRegionScroller.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2{
+    background-color:#000;
+}
+.contentRegionScroller-26nc1e.auto-Ge5KZx.scrollerBase-289Jih.content-region-scroller.scroller{
+    background-color:#000;
+}
+.contentRegionScroller-26nc1e.da-contentRegionScroller.auto-Ge5KZx.scrollerBase-289Jih{
+    background-color:#000;
+}
+.members-1998pB.da-members.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2{
+    background-color:#000;
+}
+    
